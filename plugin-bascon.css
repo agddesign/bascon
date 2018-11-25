@@ -1,0 +1,213 @@
+#wpbody .bascon-row-input select {
+    background-color: #fff;
+    height: 35px;
+    text-transform: uppercase;
+    }
+.bascon-row-input,
+.meta-box-sortables select {
+    font-family: 'Courier New', Courier, monospace !important;
+    color: rgb(0, 0, 0);
+    background-color: #FFF;
+    border-radius: 5px;
+    height: 35px;
+    width: 100%;
+    border: 1px solid #E2E2E2;
+    padding: 0 10px;
+}
+.remove_field {
+    color: #fff;
+    text-decoration: none;
+    border: 2px solid #dc3232;
+    padding: 8px 5px;
+    border-radius: 5px;
+    background-color: red;
+    font-weight: 500;
+    }
+.remove_field:hover {
+    color: red;
+    text-decoration: none;
+    border: 1px solid #dc3232;
+    padding: 8px 5px;
+    border-radius: 5px;
+    background-color: #fff;
+    font-weight: 500;
+    }
+.wp-core-ui .button-secondary {
+    display: inline-block;
+    text-decoration: none;
+    font-size: 13px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+    padding: 0 10px 1px;
+    cursor: pointer;
+    border-width: 1px;
+    border-style: solid;
+    -webkit-appearance: none;
+    border-radius: 3px;
+    border-color: #00a652;
+    white-space: nowrap;
+    box-sizing: border-box;
+    box-shadow: none;
+    background-color: #fff !important;
+    }
+.wp-core-ui .button-secondary:hover {
+    background-color: #b3dea2 !important;
+}
+.bascon-row-title {
+    font-family: 'Courier New', Courier, monospace !important;
+    color: rgb(0, 0, 0);
+    margin: 10px;
+    text-transform: uppercase;
+}
+
+.bascon-h1 {
+    color: #615959;
+    margin: 0;
+    padding: 0;
+}
+
+.bascon-h2 {
+    color: #615959;
+    margin: 0;
+    padding: 0;
+}
+
+.bascon-content {
+    font-family: 'Courier New', Courier, monospace !important;
+    color: rgb(103, 103, 103);
+    text-align: justify;
+}
+
+.bascon-meta {
+    font-family: 'Courier New', Courier, monospace;
+    color: #333333;
+    text-align: left;
+    list-style-type: none;
+}
+
+.bascon-pagenav {
+    margin: 25px 0;
+}
+
+.bascon-line {
+    border: 1px solid red;
+}
+
+.bascon-clear-1 {
+    clear: both;
+    margin: 40px 0 10px 0;
+    border: 1px solid #F1F1F1;
+}
+
+.bascon-clear-2 {
+    clear: both;
+    margin: 20px 0 10px 0;
+    border: 1px solid #f9f9f9;
+    padding: 25px 0;
+}
+
+.bascon-clear-3 {
+    clear: both;
+    margin: 50px 0 50px 0;
+    background-color: #ccc;
+    height: 5px;
+    width: 100%;
+}
+
+.bascon-wp_tag_cloud {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: left;
+    list-style-type: none;
+    color: orange;
+    font-weight: 400;
+}
+
+.bascon-meta-wrap {
+    margin: 0 0 25px 0 !important;
+    text-align: justify;
+}
+.bascon-the_title {
+    padding: 0;
+}
+.bascon-the_title,
+.bascon-meta-h2,
+.bascon-patologias_e_etiquetas {
+    background-color: rgba(0, 0, 0, 0.03);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 10vh;
+    margin: 0 0 25px 0 !important;
+    padding: 0 !important;
+}
+.bascon-meta-h3-1 {
+    margin: -5px 0 15px 0;
+    padding: 0 !important;
+    text-align: left;
+}
+.bascon-footer-thankyou {
+    color: #23282d !important;
+}
+
+.bascon-label {
+    color: rgb(243, 87, 15);
+    font-size: 18px;
+}
+
+.entry-content {
+    text-align: justify;
+}
+
+.add_field_button {
+    color: red'
+}
+
+.input_fields_wrap {
+    margin: 15px 0 15px 0;
+}
+.input_fields_wrap input {
+    width: 90%;
+    font-family: 'Courier New', Courier, monospace !important;
+    color: rgb(0, 0, 0);
+    background-color: #FFF;
+    border-radius: 5px;
+    line-height: 35px;
+    border: 1px solid #E2E2E2;
+    padding: 0 10px;
+}
+
+.bascon-table td {
+    color: #000
+}
+
+.bascon-td {
+    color: #000
+}
+
+.button-secondary {
+    color: red !important;
+    background-color: #fff !important;
+}
+
+.dashicons-tag:before {
+    margin-top: 6px;
+    display: block;
+    font-size: 18px;
+    color: orange;
+}
+
+.bascon-div img {
+    width: 100% !important;
+}
+
+.post-thumbnail img {
+    width: 100% !important;
+}
+
+.single-featured-image-header img {
+    width: 100% !important;
+}
+
